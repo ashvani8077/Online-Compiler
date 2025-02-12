@@ -1,6 +1,7 @@
 # **Code Runner – Run Your Code, Anytime, Anywhere!** 🚀
 
-![Compiler Preview](https://github.com/yourusername/repository-name/blob/main/images/compiler_preview.png)
+### **Embedded Preview**  
+![Project Preview](https://drive.google.com/uc?id=1ac0Jbip8hDQ1vI6kKUHza1m2S-MvSakE)
 
 This is a **web-based code compiler** that supports **Java** and **Python**. It allows users to write, run, and test their code in a browser. Built with **Node.js, Express, and CodeMirror**, it provides an interactive coding environment.
 
@@ -21,5 +22,5 @@ This is a **web-based code compiler** that supports **Java** and **Python**. It 
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/repository-name.git
-   cd repository-name
+   git clone https://github.com/ashvani8077/Online-Compiler.git
+   cd Online-Compiler
